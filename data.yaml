@@ -1,0 +1,7 @@
+path: datasets
+train: train/images
+val: val/images
+
+names:
+  0: snus_can
+  1: computer_mouse
